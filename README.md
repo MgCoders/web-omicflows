@@ -2,7 +2,5 @@
 
 [omicflows.com](https://omicflows.com)
 
-Landing page of "OmicFlows" by "Magnesium"
-
-Design by Flo Brizuela [behance](https://www.behance.net/flobrizuela)
+Developed by [magnesium.coop](https://magnesium.coop) and design by Flo Brizuela [behance](https://www.behance.net/flobrizuela)
 
